@@ -7,6 +7,8 @@ Docker image for:
 * bower
 * mongodb-clients (mongoexport, mongoimport, mongo, etc.)
 
+[Docker Hub](https://hub.docker.com/r/bitliner/nodejs-bower-grunt-mongodbclients/)
+
 
 # Usage example
 
